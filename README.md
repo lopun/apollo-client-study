@@ -6,3 +6,4 @@ Study about each functions in react-apollo / apollo-boost & wrote tips about it.
 
 - [Queries](Queries.md)
 - [Mutations](Mutations.md)
+- [LocalStateManagement](LocalStateManagement.md)
